@@ -13,6 +13,4 @@ short_description: "An AI-powered app to optimize renewable energy integration"
 
 # Renewable Integration Optimization Assistant
 
-This is a simple web app to optimize power dispatch from renewable sources (solar, wind) and the grid to meet a specified load demand while minimizing grid power usage.
-
-... rest of your README content ...
+This is an app to optimize power dispatch from renewable sources (solar, wind) and the grid to meet a specified load demand while minimizing grid power usage.
